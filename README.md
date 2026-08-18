@@ -463,7 +463,19 @@ The repository currently contains the project documentation and reference hardwa
         └── EEG Dev Kit.pdf
 ```
 [View the CGX EEG Development Kit Manual](assets/manual/EEG%20Dev%20Kit.pdf)
-This is the actual state of the repository at the present time.
+
+For the image section, you can now use the actual paths:
+
+```markdown
+### Reference Hardware
+
+<p align="center">
+  <img src="assets/images/Brain-Link-Pro.png" alt="Brain-Link Pro" width="400">
+  <img src="assets/images/BrainlinkPro-3D.jpeg" alt="BrainLink Pro 3D" width="400">
+  <img src="assets/images/CGX-Dev-Kit.png" alt="CGX Development Kit" width="400">
+</p>
+```
+
 
 ## Installation
 
