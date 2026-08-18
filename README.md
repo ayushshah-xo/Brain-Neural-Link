@@ -480,9 +480,6 @@ The repository is currently a research and documentation foundation. Development
 
 No application configuration exists yet. This repository does not include a current runtime configuration file, environment setup, or build pipeline.
 
-## Screenshots / Demo
-
-No screenshots or live demo are included because there is no implemented application or device workflow in the current repository.
 
 ## Research Limitations
 
