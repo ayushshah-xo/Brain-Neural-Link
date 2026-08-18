@@ -5,7 +5,7 @@
 ### Reference Platforms
 
 <p align="center">
-  <img src="assets/images/BrainlinkPro-3D.jpeg" alt="BrainLink Pro EEG device" width="500">
+  <img src="assets/images/BrainlinkPro-3D.jpeg" alt="BrainLink Pro EEG device" width="900">
 </p>
 
 <p align="center">
