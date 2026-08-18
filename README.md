@@ -41,7 +41,7 @@ The project does not claim to read every thought or to replace all forms of huma
 
 The long-term vision is to create a comfortable, portable, lightweight, removable, and aesthetically designed wearable device that assists with touch-free interaction using external EEG sensing. The system is expected to evolve from research-grade experimentation toward a wearable prototype that can support a limited set of reliable commands.
 
-## Quick Start
+## Dev Kit Purchase Links 
 
 [Purchase BrainLink Pro — Official Macrotellect Store](https://o.macrotellect.com/2020/Hardware.html#Pro)
 
