@@ -96,12 +96,73 @@ flowchart LR
     K --> L[Device interaction]
 ```
 
+# How It Works
+
+Brain Neural Link is designed around a non-invasive EEG-based brain-computer interface (BCI). The system captures measurable electrical activity from the scalp and processes those signals to identify patterns associated with specific, trained interactions. EEG-based BCI systems commonly use signal acquisition, preprocessing, feature extraction, classification, and command output as their core pipeline.
+
+```text
+User
+  ↓
+Non-Invasive EEG Wearable
+  ↓
+EEG Signal Acquisition
+  ↓
+Noise Filtering & Signal Processing
+  ↓
+Feature Extraction
+  ↓
+AI / ML Classification
+  ↓
+Intent / Pattern Recognition
+  ↓
+Command Mapping
+  ↓
+Brain Neural Link App
+  ↓
+Windows • macOS • iPhone • Android
+  ↓
+Digital Interaction
+```
+
+### 1. Capture
+
+The wearable uses non-invasive EEG sensors to record electrical activity from the scalp.
+
+### 2. Process
+
+The recorded EEG data is cleaned and processed to reduce noise and artifacts. Signal-processing techniques can then extract useful characteristics from the data.
+
+### 3. Learn
+
+A machine-learning model analyzes patterns in the processed signals. Because EEG patterns vary between individuals, calibration and personalization are important parts of the research process.
+
+### 4. Classify
+
+The system attempts to classify a limited set of trained patterns into predefined commands rather than attempting to decode unrestricted thoughts.
+
+### 5. Control
+
+Recognized commands can be mapped to digital actions such as:
+
+* Screen navigation
+* Selection
+* Next / previous actions
+* Music playback
+* Communication interfaces
+* Other supported application controls
+
+### 6. Connect
+
+A future Brain Neural Link application could receive the processed commands and provide a consistent interface across Windows, macOS, iPhone, and Android through application and cloud services.
+
+### 7. Improve
+
+User-specific calibration, feedback, and continued testing can be used to improve reliability and reduce false commands over time.
+
+> **Important:** Brain Neural Link is a research project. The system is intended to investigate measurable EEG-based interaction patterns, not unrestricted mind reading or direct decoding of a person's private thoughts.
+
+
 ## Current Project Status
-
-This repository currently contains only:
-
-- `README.md`
-- `LICENSE`
 
 There is no production application code, no `package.json`, no Electron source tree, no hardware firmware, and no ML pipeline in the repository yet. As a result, the repository should be treated as a project foundation and conceptual specification rather than a completed implementation.
 
