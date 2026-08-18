@@ -1,15 +1,9 @@
 # Brain Neural Link
 
-## Technology and Research Landscape
-
-### Reference Platforms
-
 <p align="center">
   <img src="assets/images/BrainlinkPro-3D.jpeg" alt="BrainLink Pro EEG device" width="900">
 </p>
-
-<p align="center">
-  <em>Reference hardware platforms for Brain Neural Link research.</em>
+  
 </p>
 
 ### CGX
