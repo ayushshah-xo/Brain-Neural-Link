@@ -448,15 +448,21 @@ This README is organized around the required project structure to provide an hon
 
 ## Repository Structure
 
-The repository currently contains the following structure:
+The repository currently contains the project documentation and reference hardware assets:
 
 ```text
 .
 ├── LICENSE
 ├── README.md
-└── (future research directories to be added as the project matures)
+└── assets/
+    ├── images/
+    │   ├── Brain-Link-Pro.png
+    │   ├── BrainlinkPro-3D.jpeg
+    │   └── CGX-Dev-Kit.png
+    └── manual/
+        └── EEG Dev Kit.pdf
 ```
-
+[View the CGX EEG Development Kit Manual](assets/manual/EEG%20Dev%20Kit.pdf)
 This is the actual state of the repository at the present time.
 
 ## Installation
