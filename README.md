@@ -5,7 +5,7 @@
 ### Reference Platforms
 
 <p align="center">
-  <img src="assets/images/Brain-Link-Pro.png" alt="BrainLink Pro EEG device" width="400">
+  <img src="assets/images/Brain-Link-Pro-3D.png" alt="BrainLink Pro EEG device" width="400">
   <img src="assets/images/CGX-Dev-Kit.png" alt="CGX EEG system" width="400">
 </p>
 
