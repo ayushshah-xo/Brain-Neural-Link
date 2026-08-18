@@ -1,10 +1,25 @@
 # Brain Neural Link
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Conceptual%20Research%20Project-orange" alt="Status: Conceptual Research Project" />
-  <img src="https://img.shields.io/badge/Focus-Non-Invasive%20EEG%20BCI-blue" alt="Focus: Non-invasive EEG BCI" />
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License: MIT" />
-</div>
+## Technology and Research Landscape
+
+### Reference Platforms
+
+<p align="center">
+  <img src="assets/images/brainlink-pro.jpg" alt="BrainLink Pro EEG device" width="400">
+  <img src="assets/images/cgx.jpg" alt="CGX EEG system" width="400">
+</p>
+
+<p align="center">
+  <em>Reference hardware platforms for Brain Neural Link research.</em>
+</p>
+
+### CGX
+
+CGX is relevant as a benchmark in research-grade, dry-electrode EEG systems.
+
+### BrainLink Pro
+
+BrainLink Pro is relevant as an example of a possible affordable or accessible non-invasive EEG research platform.
 
 ## Project Tagline
 
