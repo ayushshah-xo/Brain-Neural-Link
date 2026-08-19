@@ -1,4 +1,4 @@
-# Brain Neural Link
+# BRAIN NEURAL LINK
 
 <p align="center">
   <img src="assets/images/BrainlinkPro-3D.jpeg" alt="BrainLink Pro EEG device" width="900">
